@@ -13,7 +13,7 @@ This project is a back-to-basics demonstration of how to manage structured data 
  * Index Management: The entire system revolves around carefully managing array indices to keep associated student data coherent.
 
 
-🚀 Setup & Execution
+🚀 Setup & Execution: 
 Since this is a simple console app, you'll be up and running in moments.
 Requirements
 Just a standard Java Development Kit (JDK).
